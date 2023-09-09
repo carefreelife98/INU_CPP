@@ -22,7 +22,8 @@ bool operator==(const Passenger& x, const Passenger& y){
         && x.freqFlyerNo == y. freqFlyerNo;
 }
 
-main() 
-
-Passenger pass1 = {"carefree", LOW_FAT, true, "2240"};
-Passenger pass2
+main() {
+    Passenger pass1 = {"carefree", LOW_FAT, true, "2240"};
+    Passenger pass2 = {"carefreeLife VEGETARIAN, true,"};
+     
+}
