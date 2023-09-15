@@ -12,12 +12,15 @@ private:
 public:
 	Name();
 	~Name();
-	
 };
 
 Name::Name(){
 	a = 10;
 	name = "Carefree";
+};
+
+Name::~Name(){
+    cout << name;
 };
 
 class Counter { // a simple counter
@@ -36,6 +39,7 @@ int main() {
 	cout << ctr.getCount() << endl;
 	ctr.increaseBy(5);
 	cout << ctr.getCount() << endl;
+    Name name;
 }
 
 Counter::Counter() { count = 0;}
