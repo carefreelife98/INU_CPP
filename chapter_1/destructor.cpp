@@ -25,10 +25,10 @@ void func1() {
 }
 
 int main() {
-	//Vect vector(10);
+	Vect vector(10);
 	
-	//func1();
+	func1();
 	cout<< "program end" << endl;
 	
-	Vect* v = new Vect(10);
+	// Vect* v = new Vect(10);
 }
