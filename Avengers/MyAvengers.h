@@ -63,9 +63,16 @@ namespace MyAvengers {
         }
 
         int selectHero(){
-            cout << "영웅을 고르세요!\n 0. Assemble\n 1. Iron man\n 2. Hulk\n 3. Captain Korea\n" << endl;
+            cout << "영웅을 고르세요!\n 0. Assemble\n 1. Iron man\n 2. Hulk\n 3. Captain Korea\n\n Exit: 4\n" << endl;
             int hero_num;
             cin >> hero_num;
+            if (hero_num == 4){
+                cout << "프로그램을 종료합니다." << endl;
+                exit(EXIT_SUCCESS);
+            } else if (0 > hero_num || hero_num > 4){
+                cout << "0 ~ 4 범위의 정수를 입력하세요" << endl;
+                exit(EXIT_SUCCESS);
+            }
             cout << "\n---------------------START---------------------\n\n" << endl;
             
             switch (hero_num) {
