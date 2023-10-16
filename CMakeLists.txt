@@ -7,6 +7,9 @@ include_directories(.)
 include_directories(Chapter_5_prac)
 
 add_executable(C___Codes
-        pizzaShop/pizza3.cpp
-        pizzaShop/pizza3.cpp
-        Chapter_8/englplus.cpp)
+        Chapter_10_Pointer_Prac/singleton.cpp
+        Chapter_10_Pointer_Prac/ptrobjs.cpp
+        Chapter_10_Pointer_Prac/ptrobjs.cpp
+        Chapter_10_Pointer_Prac/doublePointer.cpp
+        Chapter_10_Pointer_Prac/doublePointer.cpp
+)
