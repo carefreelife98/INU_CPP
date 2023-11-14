@@ -11,4 +11,13 @@ add_executable(C___Codes
         ../Assignments/Iterator/iteratorMain.cpp
         ../Assignments/DLinkedList/DLinkedListScenario.cpp
         ../Assignments/DLinkedList/DoublyLinkedList.cpp
+        OOP/Virtual/assign.cpp
+        OOP/Virtual/where.cpp
+        OOP/Virtual/dothis.cpp
+        OOP/Virtual/assign2.cpp
+        Practices/Chapter_12_STL/STL1.cpp
+        Practices/Chapter_12_STL/STL1.h
+        Practices/Chapter_12_STL/assc_ctnr.cpp
+        Practices/Chapter_12_STL/vectcon.cpp
+        Practices/Chapter_12_STL/deque.cpp
 )
