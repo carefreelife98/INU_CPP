@@ -2,7 +2,6 @@
 // Created by 채승민 on 11/6/23.
 //
 
-#include "STL1.h"
 #include "algorithm"
 #include "iostream"
 #include "vector"
