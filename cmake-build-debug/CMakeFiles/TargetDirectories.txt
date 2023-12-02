@@ -1,3 +1,0 @@
-/Users/carefreelife/Desktop/INU/2023_4_2/c++/C++_Codes/cmake-build-debug/CMakeFiles/C___Codes.dir
-/Users/carefreelife/Desktop/INU/2023_4_2/c++/C++_Codes/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/carefreelife/Desktop/INU/2023_4_2/c++/C++_Codes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
