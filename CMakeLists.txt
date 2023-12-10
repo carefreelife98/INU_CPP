@@ -9,4 +9,7 @@ add_executable(C___Codes
         Practices/Final_Class/xstack.cpp
         Assignment/Exceptions/arrover.cpp
         Assignment/TempLinkedList/SafeArr.h
+        Practices/Final_Class/auto.cpp
+        Practices/Final_Class/intro.cpp
+        Practices/Final_Class/unique.cpp
 )
