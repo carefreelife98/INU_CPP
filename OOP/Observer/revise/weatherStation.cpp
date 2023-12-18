@@ -6,7 +6,8 @@
 #include <iostream>
 #include <memory>
 
-int main() {
+int main()
+{
 	auto weatherData = WeatherData();
 	auto currentDisplay = CurrentConditionsDisplay(&weatherData);
 	auto statsDisplay = StatisticsDisplay(&weatherData); 
